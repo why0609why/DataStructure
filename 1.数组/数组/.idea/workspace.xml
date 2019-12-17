@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="782c9502-22f1-49cf-b2b7-d36229438aa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/l2创建我们自己的数组/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l3向数组中添加元素/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l3向数组中添加元素/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l4数组中查询元素和修改元素/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l4数组中查询元素和修改元素/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l5包含和搜索和删除/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l5包含和搜索和删除/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l6使用泛型/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l6使用泛型/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l6使用泛型/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l7动态数组/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l7动态数组/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.栈和队列/栈和队列/src/栈的基本实现/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.栈和队列/栈和队列/src/栈的基本实现/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2.栈和队列/栈和队列/src/栈的基本实现/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/l7动态数组/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/l7动态数组/Array.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +29,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/l7动态数组/Array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="178" column="35" selection-start-line="178" selection-start-column="35" selection-end-line="178" selection-end-column="35" />
+            <state relative-caret-position="345">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
               <folding>
                 <element signature="e#389#390#0" expanded="true" />
                 <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
+                <element signature="e#536#537#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#721#722#0" expanded="true" />
+                <element signature="e#750#751#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/src/l7动态数组/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="484">
-              <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -112,8 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,12 +121,6 @@
               <item name="数组" type="b2602c69:ProjectViewProjectNode" />
               <item name="数组" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="数组" type="b2602c69:ProjectViewProjectNode" />
-              <item name="数组" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="l6使用泛型" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="数组" type="b2602c69:ProjectViewProjectNode" />
@@ -149,12 +139,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576570355665" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576570665243" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -273,12 +265,13 @@
       <option name="presentableId" value="Default" />
       <updated>1576237106818</updated>
       <workItem from="1576237108415" duration="9769000" />
-      <workItem from="1576249054784" duration="4505000" />
+      <workItem from="1576249054784" duration="4851000" />
+      <workItem from="1576572277689" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14274000" />
+    <option name="totallyTimeSpent" value="14636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
@@ -289,7 +282,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" weight="0.3299595" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.1885657" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19107322" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="CheckStyle" order="0" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
@@ -300,7 +293,7 @@
       <window_info anchor="bottom" id="Terminal" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.23347108" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.23347108" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.24558823" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -487,21 +480,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/l7动态数组/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/l7动态数组/Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="178" column="35" selection-start-line="178" selection-start-column="35" selection-end-line="178" selection-end-column="35" />
+        <state relative-caret-position="345">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
             <element signature="e#389#390#0" expanded="true" />
             <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l7动态数组/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
         </state>
       </provider>
     </entry>

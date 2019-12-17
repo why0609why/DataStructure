@@ -1,4 +1,4 @@
-package l7动态数组;
+package l1数组栈的基本实现;
 
 public class Array<E> {
     /**
@@ -35,7 +35,6 @@ public class Array<E> {
         return size;
     }
 
-
     /**
      * 获取最后一个元素
      * @return
@@ -51,7 +50,6 @@ public class Array<E> {
     public E getFirst(){
         return get(0);
     }
-
 
     /**
      * 获取数组容量
