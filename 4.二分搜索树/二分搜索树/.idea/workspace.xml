@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa15ec71-3319-49e4-b5b7-0783f3e02d75" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l1链表基础/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l2在链表中添加元素/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l2在链表中添加元素/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l3添加虚拟头节点/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l3添加虚拟头节点/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l4链表的遍历查询和修改/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l4链表的遍历查询和修改/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l5删除链表节点/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l5删除链表节点/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l6用链表实现栈/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l6用链表实现栈/LinkedListStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l6用链表实现栈/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l6用链表实现栈/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l7用链表实现队列/LinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l7用链表实现队列/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l7用链表实现队列/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l10删除二分搜索树的任意值/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l10删除二分搜索树的任意值/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l1二叉树基础/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l2向二分搜索树中添加元素/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l3改进插入操作/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l3改进插入操作/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l4BST的查询操作/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l5二分搜索树的前序遍历/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l5二分搜索树的前序遍历/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l6中序和后序遍历/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l6中序和后序遍历/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l7前序遍历的非递归写法/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l7前序遍历的非递归写法/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l8二分搜索树的层序遍历/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l8二分搜索树的层序遍历/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l9删除二分搜索树的最小值和最大值/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/l9删除二分搜索树的最小值和最大值/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/l10删除二分搜索树的任意值/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/l10删除二分搜索树的任意值/BST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="415" column="5" lean-forward="true" selection-start-line="364" selection-start-column="4" selection-end-line="415" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#6361#6362#0" expanded="true" />
+                <element signature="e#6399#6400#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/l1二叉树基础/BST.java" />
+        <option value="$PROJECT_DIR$/src/像二分搜索树中添加元素/BST.java" />
+        <option value="$PROJECT_DIR$/src/向二分搜索树中添加元素/BST.java" />
+        <option value="$PROJECT_DIR$/src/l2向二分搜索树中添加元素/BST.java" />
+        <option value="$PROJECT_DIR$/src/l3改进插入操作/Main.java" />
+        <option value="$PROJECT_DIR$/src/l3改进插入操作/BST.java" />
+        <option value="$PROJECT_DIR$/src/l4BST的查询操作/BST.java" />
+        <option value="$PROJECT_DIR$/src/l5二分搜索书的前序遍历/BST.java" />
+        <option value="$PROJECT_DIR$/src/l5二分搜索树的前序遍历/BST.java" />
+        <option value="$PROJECT_DIR$/src/l5二分搜索树的前序遍历/Main.java" />
+        <option value="$PROJECT_DIR$/src/l6中序和后序遍历/BST.java" />
+        <option value="$PROJECT_DIR$/src/l6中序和后序遍历/Main.java" />
+        <option value="$PROJECT_DIR$/src/l7前序遍历的非递归写法/Main.java" />
+        <option value="$PROJECT_DIR$/src/l7前序遍历的非递归写法/BST.java" />
+        <option value="$PROJECT_DIR$/src/l8二分搜索树的层序遍历/Main.java" />
+        <option value="$PROJECT_DIR$/src/l8二分搜索树的层序遍历/BST.java" />
+        <option value="$PROJECT_DIR$/src/l9删除二分搜索树的最小值和最大值/BST.java" />
+        <option value="$PROJECT_DIR$/src/l9删除二分搜索树的最小值和最大值/Main.java" />
+        <option value="$PROJECT_DIR$/src/l10删除二分搜索树的任意值/BST.java" />
+        <option value="$PROJECT_DIR$/src/l10删除二分搜索树的任意值/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1929" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="二分搜索树" type="b2602c69:ProjectViewProjectNode" />
+              <item name="二分搜索树" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="二分搜索树" type="b2602c69:ProjectViewProjectNode" />
+              <item name="二分搜索树" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="二分搜索树" type="b2602c69:ProjectViewProjectNode" />
+              <item name="二分搜索树" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="l10删除二分搜索树的任意值" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="二分搜索树" type="b2602c69:ProjectViewProjectNode" />
+              <item name="二分搜索树" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="l10删除二分搜索树的任意值" type="462c0819:PsiDirectoryNode" />
+              <item name="BST" type="1a9f42e2:ClassTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576936510946" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l10删除二分搜索树的任意值.Main" />
+      <module name="二分搜索树" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="l10删除二分搜索树的任意值.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l6中序和后序遍历.Main" />
+      <module name="二分搜索树" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="l6中序和后序遍历.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l7前序遍历的非递归写法.Main" />
+      <module name="二分搜索树" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="l7前序遍历的非递归写法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l8二分搜索树的层序遍历.Main" />
+      <module name="二分搜索树" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="l8二分搜索树的层序遍历.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l9删除二分搜索树的最小值和最大值.Main" />
+      <module name="二分搜索树" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="l9删除二分搜索树的最小值和最大值.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa15ec71-3319-49e4-b5b7-0783f3e02d75" name="Default Changelist" comment="" />
+      <created>1576914468665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576914468665</updated>
+      <workItem from="1576914471313" duration="1389000" />
+      <workItem from="1576915904618" duration="8000" />
+      <workItem from="1576915938284" duration="21000" />
+      <workItem from="1576915962668" duration="9556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10974000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1927" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2462888" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31714877" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.18181819" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="SciView" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24674022" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.31714877" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.18181819" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="SciView" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/l3改进插入操作/Main.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/l1二叉树基础/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="839">
+          <caret line="51" column="1" lean-forward="true" selection-start-line="2" selection-end-line="51" selection-end-column="1" />
+          <folding>
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l2向二分搜索树中添加元素/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+          <folding>
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l3改进插入操作/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l3改进插入操作/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="85" selection-end-column="1" />
+          <folding>
+            <element signature="e#834#835#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l4BST的查询操作/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="127" column="1" lean-forward="true" selection-start-line="2" selection-end-line="127" selection-end-column="1" />
+          <folding>
+            <element signature="e#1504#1505#0" expanded="true" />
+            <element signature="e#1544#1545#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../数据结构/coding-207/06-Binary-Search-Tree/06-PreOrder-Traverse-in-BST/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="109" column="5" lean-forward="true" selection-start-line="84" selection-start-column="4" selection-end-line="109" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l5二分搜索树的前序遍历/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="175" column="1" lean-forward="true" selection-start-line="2" selection-end-line="175" selection-end-column="1" />
+          <folding>
+            <element signature="e#2225#2226#0" expanded="true" />
+            <element signature="e#2251#2252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l5二分搜索树的前序遍历/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l6中序和后序遍历/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="221" column="1" lean-forward="true" selection-start-line="2" selection-end-line="221" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l6中序和后序遍历/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l7前序遍历的非递归写法/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="241" column="1" lean-forward="true" selection-start-line="4" selection-end-line="241" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l7前序遍历的非递归写法/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l8二分搜索树的层序遍历/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="216" column="4" selection-start-line="216" selection-start-column="4" selection-end-line="216" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l8二分搜索树的层序遍历/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="2" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l9删除二分搜索树的最小值和最大值/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="369" column="1" lean-forward="true" selection-start-line="6" selection-end-line="369" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l9删除二分搜索树的最小值和最大值/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="2" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l10删除二分搜索树的任意值/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l10删除二分搜索树的任意值/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="415" column="5" lean-forward="true" selection-start-line="364" selection-start-column="4" selection-end-line="415" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6361#6362#0" expanded="true" />
+            <element signature="e#6399#6400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
