@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa15ec71-3319-49e4-b5b7-0783f3e02d75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l1链表基础/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l2在链表中添加元素/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l2在链表中添加元素/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l3添加虚拟头节点/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l3添加虚拟头节点/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l4链表的遍历查询和修改/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l4链表的遍历查询和修改/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l5删除链表节点/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l5删除链表节点/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l6用链表实现栈/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l6用链表实现栈/LinkedListStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l6用链表实现栈/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l6用链表实现栈/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l7用链表实现队列/LinkedListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l7用链表实现队列/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../3.链表/链表/src/l7用链表实现队列/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l10删除二分搜索树的任意值/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l10删除二分搜索树的任意值/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l1二叉树基础/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l2向二分搜索树中添加元素/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l3改进插入操作/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l3改进插入操作/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l4BST的查询操作/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l5二分搜索树的前序遍历/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l5二分搜索树的前序遍历/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l6中序和后序遍历/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l6中序和后序遍历/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l7前序遍历的非递归写法/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l7前序遍历的非递归写法/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l8二分搜索树的层序遍历/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l8二分搜索树的层序遍历/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l9删除二分搜索树的最小值和最大值/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l9删除二分搜索树的最小值和最大值/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="aa15ec71-3319-49e4-b5b7-0783f3e02d75" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,12 +30,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/l10删除二分搜索树的任意值/BST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="415" column="5" lean-forward="true" selection-start-line="364" selection-start-column="4" selection-end-line="415" selection-end-column="5" />
+            <state relative-caret-position="425">
+              <caret line="413" column="29" selection-start-line="413" selection-start-column="29" selection-end-line="413" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#6361#6362#0" expanded="true" />
-                <element signature="e#6399#6400#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,10 +78,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1929" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="2579" />
+    <option name="height" value="1409" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -125,7 +89,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,12 +119,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576936510946" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576936568343" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunDashboard">
@@ -265,25 +229,24 @@
       <workItem from="1576914471313" duration="1389000" />
       <workItem from="1576915904618" duration="8000" />
       <workItem from="1576915938284" duration="21000" />
-      <workItem from="1576915962668" duration="9556000" />
+      <workItem from="1576915962668" duration="10154000" />
+      <workItem from="1577262702924" duration="139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10974000" />
+    <option name="totallyTimeSpent" value="11711000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1927" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2462888" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18505517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31714877" />
@@ -297,6 +260,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -510,12 +474,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/l10删除二分搜索树的任意值/BST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="415" column="5" lean-forward="true" selection-start-line="364" selection-start-column="4" selection-end-line="415" selection-end-column="5" />
+        <state relative-caret-position="425">
+          <caret line="413" column="29" selection-start-line="413" selection-start-column="29" selection-end-line="413" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#6361#6362#0" expanded="true" />
-            <element signature="e#6399#6400#0" expanded="true" />
           </folding>
         </state>
       </provider>
