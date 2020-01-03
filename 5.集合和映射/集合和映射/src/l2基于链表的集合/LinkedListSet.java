@@ -42,6 +42,8 @@ public class LinkedListSet<E> implements Set<E> {
 
     @Override
     public String toString() {
+
+
         return "LinkedListSet{" +
                 "linkedList=" + linkedList +
                 '}';

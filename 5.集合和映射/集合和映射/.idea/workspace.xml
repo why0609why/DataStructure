@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5dbdc8d-5089-4480-bf45-30c102cdb9af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/l1基于二分搜索树的集合/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l1基于二分搜索树的集合/BSTSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l1基于二分搜索树的集合/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l1基于二分搜索树的集合/Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l2基于链表的集合/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l2基于链表的集合/LinkedListSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l2基于链表的集合/Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l2基于链表的集合/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l3基于链表的映射/LinkedListMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l3基于链表的映射/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l3基于链表的映射/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l4基于二分搜索树的映射/BSTMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l4基于二分搜索树的映射/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l4基于二分搜索树的映射/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/l2基于链表的集合/LinkedListSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/l2基于链表的集合/LinkedListSet.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/l2基于链表的集合/LinkedListSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+            <state relative-caret-position="220">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -54,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/l1基于二分搜索树的集合/BSTSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+            <state relative-caret-position="792">
+              <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -100,6 +87,7 @@
         <option value="$PROJECT_DIR$/src/l4基于二分搜索树的映射/Map.java" />
         <option value="$PROJECT_DIR$/src/l4基于二分搜索树的映射/BSTMap.java" />
         <option value="$PROJECT_DIR$/src/l4基于二分搜索树的映射/Test.java" />
+        <option value="$PROJECT_DIR$/src/l2基于链表的集合/LinkedListSet.java" />
       </list>
     </option>
   </component>
@@ -156,7 +144,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578030249386" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578044524512" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -257,12 +245,12 @@
       <workItem from="1577690821806" duration="938000" />
       <workItem from="1577701977275" duration="2616000" />
       <workItem from="1577960620338" duration="3596000" />
-      <workItem from="1578022533110" duration="5379000" />
+      <workItem from="1578022533110" duration="7542000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13167000" />
+    <option name="totallyTimeSpent" value="15330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
@@ -277,7 +265,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2747934" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2747934" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4090909" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -497,13 +485,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/l2基于链表的集合/LinkedListSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/l1基于二分搜索树的集合/BST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1144">
@@ -516,8 +497,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/l1基于二分搜索树的集合/BSTSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        <state relative-caret-position="792">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/l2基于链表的集合/LinkedListSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
         </state>
       </provider>
     </entry>
