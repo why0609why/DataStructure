@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="623d5b52-8dac-44c1-98dd-4a8bb88c38ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/zd/l1字典树基础/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zd/l1字典树基础/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zd/l2字典树的查询/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zd/l2字典树的查询/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zd/l3字典树的前缀查询/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zd/l3字典树的前缀查询/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../字典树结构.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1WIIxHkcNQjMXJq0ys7n9eU9eCI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.Test (2)">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.zd.Main" />
+      <module name="字典树" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zd.l2字典树的查询.Test" />
+      <module name="字典树" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zd.l2字典树的查询.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zd.l3字典树的前缀查询.Test" />
+      <module name="字典树" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zd.l3字典树的前缀查询.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zd.l1字典树基础.Test" />
+      <module name="字典树" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zd.l1字典树基础.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="623d5b52-8dac-44c1-98dd-4a8bb88c38ae" name="Default Changelist" comment="" />
+      <created>1578830926881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578830926881</updated>
+      <workItem from="1578830928690" duration="6864000" />
+      <workItem from="1579151241156" duration="1312000" />
+      <workItem from="1579227442136" duration="3519000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="60" key="#com.intellij.ide.util.MemberChooser" timestamp="1578832764922">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="60" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578832764922" />
+    <state width="1483" height="62" key="GridCell.Tab.0.bottom" timestamp="1578913975375">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="62" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578913975375" />
+    <state width="1483" height="62" key="GridCell.Tab.0.center" timestamp="1578913975374">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="62" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578913975374" />
+    <state width="1483" height="62" key="GridCell.Tab.0.left" timestamp="1578913975374">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="62" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578913975374" />
+    <state width="1483" height="62" key="GridCell.Tab.0.right" timestamp="1578913975374">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="62" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578913975374" />
+    <state width="1483" height="61" key="GridCell.Tab.1.bottom" timestamp="1578884656617">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="61" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578884656617" />
+    <state width="1483" height="61" key="GridCell.Tab.1.center" timestamp="1578884656617">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="61" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578884656617" />
+    <state width="1483" height="61" key="GridCell.Tab.1.left" timestamp="1578884656617">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="61" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578884656617" />
+    <state width="1483" height="61" key="GridCell.Tab.1.right" timestamp="1578884656617">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="61" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578884656617" />
+    <state width="1483" height="61" key="GridCell.Tab.2.bottom" timestamp="1578884656617">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="61" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578884656617" />
+    <state width="1483" height="61" key="GridCell.Tab.2.center" timestamp="1578884656617">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="61" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1578884656617" />
+    <state width="1483" height="61" key="GridCell.Tab.2.left" timestamp="1578884656617">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="61" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1578884656617" />
+    <state width="1483" height="61" key="GridCell.Tab.2.right" timestamp="1578884656617">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="61" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1578884656617" />
+    <state x="361" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1579227462311">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="194" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579227462311" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zd/l1字典树基础/Test.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

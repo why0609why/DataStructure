@@ -2,13 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b2a1feb-38aa-4a84-be8b-a4fc1994f43e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/l5基于堆的优先队列/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l5基于堆的优先队列/MaxHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l5基于堆的优先队列/PriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l5基于堆的优先队列/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/l5基于堆的优先队列/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../5.集合和映射/集合和映射.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.集合和映射/集合和映射.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../优先队列.md" beforeDir="false" afterPath="$PROJECT_DIR$/../优先队列.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.AVL树/AVL树.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.AVL树/AVL树/src/com/zd/l1AVL基础/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.AVL树/AVL树/src/com/zd/l2AVL的自平衡/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.AVL树/AVL树/src/com/zd/l3全部的自平衡/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.AVL树/AVL树/src/com/zd/l4AVL删除节点/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.字典树/字典树/src/com/zd/l1字典树基础/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.字典树/字典树/src/com/zd/l1字典树基础/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.字典树/字典树/src/com/zd/l2字典树的查询/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.字典树/字典树/src/com/zd/l2字典树的查询/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.字典树/字典树/src/com/zd/l3字典树的前缀查询/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.字典树/字典树/src/com/zd/l3字典树的前缀查询/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.字典树/字典树结构.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.并查集/并查集/src/com/zd/l1QuickFind/UF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.并查集/并查集/src/com/zd/l1QuickFind/UnionFind1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.并查集/并查集/src/com/zd/l2QuickUnion/UF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.并查集/并查集/src/com/zd/l2QuickUnion/UnionFind2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.并查集/并查集/src/com/zd/l3QuickUnion的size优化/UF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.并查集/并查集/src/com/zd/l3QuickUnion的size优化/UnionFind3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.并查集/并查集/src/com/zd/l4QuickUnion的rank优化/UF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.并查集/并查集/src/com/zd/l4QuickUnion的rank优化/UnionFind4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.并查集/并查集/src/com/zd/l5QuickUnion的路径压缩/UF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.并查集/并查集/src/com/zd/l5QuickUnion的路径压缩/UnionFind5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.并查集/并查集/src/com/zd/l6QuickUnion的最终路径压缩/UF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9.并查集/并查集/src/com/zd/l6QuickUnion的最终路径压缩/UnionFind6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,6 +159,7 @@
       <workItem from="1578105125889" duration="49000" />
       <workItem from="1578105199938" duration="1864000" />
       <workItem from="1578109060689" duration="196000" />
+      <workItem from="1582505749128" duration="315000" />
     </task>
     <servers />
   </component>
