@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.数组/1.数组.iml" filepath="$PROJECT_DIR$/1.数组/1.数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.AVL树/10.AVL树.iml" filepath="$PROJECT_DIR$/10.AVL树/10.AVL树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.栈和队列/2.栈和队列.iml" filepath="$PROJECT_DIR$/2.栈和队列/2.栈和队列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.链表/3.链表.iml" filepath="$PROJECT_DIR$/3.链表/3.链表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.二分搜索树/4.二分搜索树.iml" filepath="$PROJECT_DIR$/4.二分搜索树/4.二分搜索树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.集合和映射/5.集合和映射.iml" filepath="$PROJECT_DIR$/5.集合和映射/5.集合和映射.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.优先队列/6.优先队列.iml" filepath="$PROJECT_DIR$/6.优先队列/6.优先队列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.线段树/7.线段树.iml" filepath="$PROJECT_DIR$/7.线段树/7.线段树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.字典树/8.字典树.iml" filepath="$PROJECT_DIR$/8.字典树/8.字典树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.并查集/9.并查集.iml" filepath="$PROJECT_DIR$/9.并查集/9.并查集.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DataStructure.iml" filepath="$PROJECT_DIR$/.idea/DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution/Solution.iml" filepath="$PROJECT_DIR$/Solution/Solution.iml" />
+    </modules>
+  </component>
+</project>
